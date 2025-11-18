@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+vlaenv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files (large)
+data/*/data.hdf5
+data/*/*.h5
+*.hdf5
+*.h5
+
+# Model checkpoints (large)
+models--*/
+*.bin
+*.safetensors
+checkpoints/
+
+# Logs
+*.log
+logs/
+*.out
+
+# Isaac Sim/Lab (don't include their installation)
+_isaac_sim/
+IsaacLab/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Documentation build artifacts
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Keep data directory structure but not contents
+data/*/*
+!data/*/.gitkeep
+!data/README.md
+
+# Archive directories
+_archive*/
+archive/
+
+# Claude Flow (if you don't want to include it)
+claude-flow/
+
+# Coordination files
+coordination/
+
+# Memory files
+memory/
