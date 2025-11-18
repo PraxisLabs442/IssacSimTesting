@@ -3,6 +3,5 @@
 
 cd /home/mpcr/Downloads/IsaacLab
 ./isaaclab.sh -p ~/Desktop/PraxisLabs/run_vla.py \
-  --headless False \
   --vla-device cuda:1 \
   --steps 200

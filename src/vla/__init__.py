@@ -1,5 +1,5 @@
-"""VLA Model Wrappers"""
+"""VLA models for Isaac Sim"""
 
-from src.vla.vla_loader import VLALoader, VLAConfig
+from src.vla.openvla import OpenVLA
 
-__all__ = ["VLALoader", "VLAConfig"]
+__all__ = ["OpenVLA"]
