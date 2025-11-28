@@ -4,7 +4,7 @@
 
 ✅ **Repository initialized**
 ✅ **All files committed** (40 files, 10,872 lines)
-✅ **Remote configured**: https://github.com/AnikS22/IsaacSimSimulator.git
+✅ **Remote configured**: https://github.com/PraxisLabs442/IssacSimTesting.git
 
 ## Next Steps - Authentication Required
 
@@ -96,5 +96,5 @@ Once pushed, your repository will contain:
 - Scripts for running the environment
 
 The repository will be available at:
-**https://github.com/AnikS22/IsaacSimSimulator**
+**https://github.com/PraxisLabs442/IssacSimTesting**
 
